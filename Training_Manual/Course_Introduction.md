@@ -1,0 +1,82 @@
+# **Course Introduction**
+## 1.1. Foreword
+Welcome to our course! We will be showing you how to use QGIS easily and efficiently. If you are new to GIS, we will tell you what you need to get started. If you are an experienced user, you will see how QGIS fulfills all the functions you expect from a GIS program, and more!
+
+This course is an adaptation of the [QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) with a focus on the Iberian Peninsula in Antiquity. It is aimed at Classical Archaeologists and Historians with little expierence in GIS applications. The course is part of the [Toletum-Network](https://www.toletum-network.com/) activities.
+### 1.1.1. Why QGIS?
+As information becomes increasingly spatially aware, there is no shortage of tools able to fulfill some or all commonly used GIS functions. Why should anyone be using QGIS over some other GIS software package?
+
+Here are only some of the reasons:
+* It’s free, as in lunch. Installing and using the QGIS program costs you a grand total of zero money. No initial fee, no recurring fee, nothing.
+* It’s free, as in liberty. If you need extra functionality in QGIS, you can do more than just hope it will be included in the next release. You can sponsor the development of a feature, or add it yourself if you are familiar with programming.
+* It’s constantly developing. Because anyone can add new features and improve on existing ones, QGIS never stagnates. The development of a new tool can happen as quickly as you need it to.
+* Extensive help and documentation is available. If you’re stuck with anything, you can turn to the extensive documentation, your fellow QGIS users, or even the developers.
+* Cross-platform. QGIS can be installed on MacOS, Windows and Linux.
+Now that you know why you want to use QGIS, these exercises will make you know how.
+### 1.1.2. Background
+In 2008 we launched the [Gentle Introduction to GIS](https://docs.qgis.org/3.10/en/docs/gentle_gis_introduction/index.html#gentle-introduction-gis), a completely free, open content resource for people who want to learn about GIS without being overloaded with jargon and new terminology. It was sponsored by the South African government and has been a phenomenal success, with people all over the world writing to us to tell us how they are using the materials to run University Training Courses, teach themselves GIS and so on. The Gentle Introduction is not a software tutorial, but rather aims to be a generic text (although we used QGIS in all examples) for someone learning about GIS. There is also the QGIS manual which provides a detailed functional overview of the QGIS application. However, it is not structured as a tutorial, but rather as a reference guide. At Linfiniti Consulting CC. we frequently run training courses and have realised that a third resource is needed - one that leads the reader sequentially through learning the key aspects of QGIS in a trainer-trainee format - which prompted us to produce this work.
+This training manual is intended to provide all the materials needed to run a 5 day course on QGIS, PostgreSQL and PostGIS. The course is structured with content to suit novice, intermediate and advanced users alike and has many exercises complete with annotated answers throughout the text.
+### 1.1.3. License
+The Free Quantum GIS Training Manual by Linfiniti Consulting CC. is based on an earlier version from Linfiniti and is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Permissions beyond the scope of this license may be available at below.
+We have published this QGIS training manual under a liberal license that allows you to freely copy, modify and redistribute this work. A complete copy of the license is available at the end of this document. In simple terms, the usage guidelines are as follows:
+* You may not represent this work as your own work, or remove any authorship text or credits from this work.
+* You may not redistribute this work under more restrictive permissions than those under which it was provided to you.
+* If you add a substantive portion to the work and contribute it back to the project (at least one complete module) you may add your name to the end of the authors list for this document (which will appear on the front page)
+* If you contribute minor changes and corrections you may add yourself to the contributors list below.
+* If you translate this document in its entirety, you may add your name to the authors list in the form “Translated by Joe Bloggs”.
+* If you sponsor a module or lesson, you may request the author to include an acknowledgement in the beginning of each lesson contributed, e.g.:
+! Note
+This lesson was sponsored by MegaCorp.
+* If you are unsure about what you may do under this license, please contact us at office@linfiniti.com and we will advise you if what you intend doing is acceptable.
+* If you publish this work under a self publishing site such as https://www.lulu.com we request that you donate the profits to the QGIS project.
+* You may not commercialise this work, except with the expressed permission of the authors. To be clear, by commercialisation we mean that you may not sell for profit, create commercial derivative works (e.g. selling content for use as articles in a magazine). The exception to this is if all the profits are given to the QGIS project. You may (and we encourage you to do so) use this work as a text book when conducting training courses, even if the course itself is commercial in nature. In other words, you are welcome to make money by running a training course that uses this work as a text book, but you may not profit off the sales of the book itself - all such profits should be contributed back to QGIS.
+### 1.1.4. Sponsoring Chapters
+This work is by no means a complete treatise on all the things you can do with QGIS and we encourage others to add new materials to fill any gaps. Linfiniti Consulting CC. can also create additional materials for you as a commercial service, with the understanding that all such works produced should become part of the core content and be published under the same license.
+### 1.1.5. Authors
+* Rüdiger Thiede (rudi@linfiniti.com) - Rudi has written the QGIS instructional materials and parts of the PostGIS materials.
+* Tim Sutton (tim@linfiniti.com) - Tim has overseen and guided the project and co-authored the PostgreSQL and PostGIS parts. Tim also authored the custom sphinx theme used for this manual.
+* Horst Düster (horst.duester@kappasys.ch ) - Horst co-authored the PostgreSQL and PostGIS parts
+* Marcelle Sutton (marcelle@linfiniti.com) - Marcelle provided proof-reading and editorial advice during the creation of this work.
+### 1.1.6. Individual Contributors
+* Jan Schneider (schneider.jan@gmx.net) - **ENTER YOUR work on the manual.**
+* Pieter Houten (phahouten@gmail.com) -  **ENTER YOUR work on the manual.**
+### 1.1.7. Sponsors
+Cape Peninsula University of Technology
+### 1.1.8. Source files and Issue reports
+The source of this document is available at GitHub QGIS Documentation repository. Consult GitHub.com for instructions on how to use the git version control system.
+Despite our efforts, you could find some errors or miss some information while following this training. Please report them at https://github.com/qgis/QGIS-Documentation/issues.
+### 1.1.9. Latest Version
+You can always obtain the latest version of this document by visiting the online version which is part of the QGIS documentation website (https://docs.qgis.org).
+Note
+The documentation website contains links to both online and PDF versions of the Training manual and other parts of the QGIS documentation.
+
+## 1.2. About the exercises
+Now that you know why you want to use QGIS, we can show you how.
+Warning
+This course includes instructions on adding, deleting and altering GIS datasets. We have provided training datasets for this purpose. Before using the techniques described here on your own data, always ensure you have proper backups!
+ 
+### 1.2.1. How to use this tutorial
+Any text that looks like this refers to something that you can see in the QGIS user interface.
+Text that looks ‣ like ‣ this directs you through menus.
+This kind of text refers to something you can type, such as a command, path, or file name.
+### 1.2.2. Tiered course objectives
+This course caters to different user experience levels. Depending on which category you consider yourself to be in, you can expect a different set of course outcomes. Each category contains information that is essential for the next one, so it’s important to do all exercises that are at or below your level of experience.
+#### 1.2.2.1.  Basic
+In this category, the course assumes that you have little or no prior experience with theoretical GIS knowledge or the operation of GIS software.
+Limited theoretical background will be provided to explain the purpose of an action you will be performing in the program, but the emphasis is on learning by doing.
+When you complete the course, you will have a better concept of the possibilities of GIS, and how to harness their power via QGIS.
+#### 1.2.2.2.  Intermediate
+In this category, it is assumed that you have working knowledge and experience of the everyday uses of GIS software.
+Building on the instructions for the beginner level will provide you with familiar ground, as well as to make you aware of the cases where QGIS does things slightly differently from other software you may be used to. You will also learn how to use analysis functions in QGIS.
+When you complete the course, you should be comfortable with using QGIS for all of the functions you usually need for everyday use.
+#### 1.2.2.3.  Advanced
+In this category, the assumption is that you are experienced with GIS software, have knowledge of and experience with spatial databases, using data on a remote server, perhaps writing scripts for analysis purposes, etc.
+Building on the instructions for the other two levels will familiarize you with the approach that the QGIS interface follows, and will ensure that you know how to access the basic functions that you need. You will also be shown how to make use of the QGIS plugin system, database access, and so on.
+When you complete the course, you should be well-acquainted with the everyday operation of QGIS, as well as its more advanced functions.
+### 1.2.3. Data
+**NEEDS TO REFER TO OUR SOURCES**
+The sample data that accompanies this resource is freely available and comes from the following sources:
+* Rivers, roads and boundaries (http://awmc.unc.edu/wordpress/map-files/)
+* DEM ancient world from AWMC (http://awmc.unc.edu/wordpress/map-files/)
+* Places (https://pleiades.stoa.org/downloads)
+Download the prepared dataset from the Training data repository and unzip the file. All the necessary data are provided in the exercise_data folder.  Note that the prepared data only uses the data for the Iberian Peninsula. The above listed datasets include all areas considered to be the Ancient World.
