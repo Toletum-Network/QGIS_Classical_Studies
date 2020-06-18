@@ -1,4 +1,4 @@
-#2. Module: The Interface
+# 2. Module: The Interface
 After completing this section, you will be able to correctly identify the main elements of the screen in QGIS and know what each of them does. You will also be able to load a layer into QGIS.
 
 
@@ -11,45 +11,48 @@ Before starting this exercise, QGIS must be installed on your computer. Also, yo
 Launch QGIS from its desktop shortcut, menu item, etc., depending on how you configured its installation.
 
 Note
-The screenshots for this course were taken in QGIS 3.10 running on Windows. Depending on your setup, the screens you encounter may well appear somewhat different. However, all the same buttons will still be available, and the instructions will work on any OS. You will need QGIS 3.10 (the latest version at time of writing) to use this course.
+The screenshots for this course were taken in [QGIS 3.10.6 LTR](https://www.qgis.org/en/site/) running on Windows. Depending on your setup, the screens you encounter may well appear somewhat different. However, all the same buttons will still be available, and the instructions will work on any OS. You will need QGIS 3.10.6 LTR (the latest LTR at the time of writing to use this course).
 Let’s get started right away!
 
-###2.1.1.  Follow Along: Prepare a map
-Open QGIS. You will have a new, blank map.
+### 2.1.1. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Prepare a map
+1. Open QGIS. You will have a new, blank map.
+![2.1.1 A Blank Map](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.1.1%20A%20Blank-map.png)
 
-The Data Source Manager dialog allows you to choose the data to load depending on the data type. We’ll use it to load our dataset: click the  Open Data Source Manager button.
-If you can’t find the icon, check that the Data Source Manager toolbar is enabled in the View ‣ Toolbars menu.
-
-
-
-Load the provinces.shp vector dataset:
-Click on the Vector tab.
-Enable the File source type.
-Press the … button next to Vector Dataset(s).
-Select the exercise_data/shapefile/provinces.shp file in your training directory.
-Click Open. You will see the original dialog, with the file path filled in.
+2. The **Data Source Manager** dialog allows you to choose the data to load depending on the data type. We’ll use it to load our dataset: click the ![Data Source Manager](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/Open%20Data%20Source%20Manager.png) *Open Data Source Manager* button.
+If you can’t find the icon, check that the **Data Source Manager** toolbar is enabled in the **View ‣ Toolbars** menu.
+![2.1.1 B Toolbar](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.1.1%20B%20Toolbar.png)
 
 
+3. Load the _**provinces.shp**_ vector dataset:
+* Click on the **Vector** tab.
+* Enable the ![radiobutton](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/radiobuttonon.png) **File** source type.
+* Press the **…** button next to **Vector Dataset(s)**.
+* Select the [_**exercise_data/shapefile/provinces.shp**_](https://drive.google.com/drive/folders/16C_g2qheeME3CCTDUAJbRj8oyoqrFKDR) file in your training directory.
+* Click Open. You will see the original dialog, with the file path filled in.
+![2.1.1 C browser vector data](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.1.1%20C%20browser%20vector%20data.png)
 
-Click Add here as well. The data you specified will now load: you can see a provinces item in the Layers panel (bottom left) with its features shown in the main map canvas.
-
-
-
+* Click **Add** here as well. The data you specified will now load: you can see a _**provinces**_ item in the **Layers panel** (bottom left) with its features shown in the main map canvas.
 
 Congratulations! You now have a basic map. Now would be a good time to save your work.
-Click on the Save As button: 
-Save the map under a solution folder next to exercise_data and call it basic_map.qgz.
-2.1.2.  Try Yourself
-Repeat the steps above to add the places.shp and rivers.shp layers from the same folder (exercise_data/shapefile) to the map.
-Check your results
-2.1.3. In Conclusion
+
+1. Click on the **Save As** button: ![Save as](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionFileSaveAs.png)
+2. Save the map under a _**solution**_ folder next to _**exercise_data**_ and call it _**basic_map.qgz**_.
+
+### 2.1.2. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself
+Repeat the steps above to add the _**places.shp**_ and _**rivers.shp**_ layers from the same folder (_**exercise_data/shapefile**_) to the map.
+[Check your results](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Answer_Sheet/Answer_sheet.md)
+
+### 2.1.3. In Conclusion
 You’ve learned how to add a layer from a Shapefile dataset and create a basic map!
-2.1.4. What’s Next?
-Now you’re familiar with the basic function of the Open Data Source Manager button, but what about all the others? How does this interface work? Before we go on, let’s first take a look at the layout of the QGIS interface. This is the topic of the next lesson.
-2.2. Lesson: An Overview of the Interface
+
+### 2.1.4. What’s Next?
+Now you’re familiar with the basic function of the **Open Data Source Manager** button, but what about all the others? How does this interface work? Before we go on, let’s first take a look at the layout of the QGIS interface. This is the topic of the next lesson.
+
+## 2.2. Lesson: An Overview of the Interface
 We will explore the QGIS user interface so that you are familiar with the menus, toolbars, map canvas and layers list that form the basic structure of the interface.
 The goal for this lesson: To understand the basics of the QGIS user interface.
-2.2.1.  Try Yourself: The Basics
+
+### 2.2.1. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself: The Basics
 
 The elements identified in the figure above are:
 Layers List / Browser Panel
