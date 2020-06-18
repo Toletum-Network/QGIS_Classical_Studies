@@ -2,7 +2,7 @@
 QGIS Online Course (Archaeologists &amp; Historians)
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Course_Introduction.md)
-2. Module: The Interface
+2. [Module: The Interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md)
 3. Module: Creating a Basic Map
 4. Module: Classifying Vector Data
 5. Module: Creating Maps
