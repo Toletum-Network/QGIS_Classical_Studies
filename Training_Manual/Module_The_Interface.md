@@ -119,3 +119,56 @@ If any of these tools is not visible on the screen, try enabling some toolbars t
 
 ### 2.2.4. What’s Next?
 Now you’ve seen how the QGIS interface works, you can use the tools available to you and start improving on your map! This is the topic of the next lesson.
+
+## 2.3. Lesson: Navigating the Map Canvas
+This section will focus on basic QGIS navigation tools used to navigate within the Map Canvas. These tools will allow you to visually explore the layers at different scales.
+
+The goal for this lesson: Learn how to use Pan and Zoom tools within QGIS and learn about map scale.
+
+### 2.3.1. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Basic Navigation Tools
+Before learning how to navigate within the Map Canvas, let’s add two additional layers that we can explore during this tutorial.
+
+1. Use the steps learnt in [Create a Map lesson](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#211--follow-along-prepare-a-map) to add ESRI Shapefiles _**roads.shp**_ and _**buildings.shp**_ as layers to the current project. The result view should look similiar to the snippet below:
+**INSERT SCREENSHOT 2.3.1 A**
+Let’s first learn how to use the Pan Tool.
+
+* In the Map Navigation Toolbar, make sure the ![pan](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionPan.png)_Pan_ button is activated.
+* Move the mouse to the center of the Map Canvas area.
+* Left-click and hold, and drag the mouse in any direction to pan the map.
+
+Next, let’s zoom in and take a closer look at the layers we imported.
+
+* In the _Map Navigation Toolbar_, click on the ![zoomIn](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionZoomIn.png)_Zoom In_ button.
+* Move your mouse to approximately the top left area of where there is the highest density of buildings and roads.
+* Left click and hold.
+* Then drag the mouse, which will create a rectangle, and cover the dense area of buildings and roads.
+**INSERT SCREENSHOT 2.3.1 B**
+* Release the left click. This will zoom in to include the area that you selected with your rectangle.
+**INSERT SCREENSHOT 2.3.1 C**
+* To zoom out, select the ![zoomOut](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionZoomOut.png)_Zoom Out_ button and perform the same action as you did for zooming in.
+
+As you pan, zoom in, or zoom out, QGIS saves these views in a history. This allows you to backtrack to a previous view.
+
+* In the _Map Navigation Toolbar_, click on ![zoomLast](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionZoomLast.png)_Zoom Last_ button to go to your previous view.
+* Click on ![zoomNext](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionZoomNext.png)_Zoom Next_ button to proceed to move forward in your history.
+
+Sometimes after exploring the data, we need to reset our view to the extent of all the layers. Instead of trying to use the Zoom Out tool multiple times, QGIS provides us with a button to do that action for us.
+
+* Click on the ![zoomFullExtent](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionZoomFullExtent.png)_Zoom Full Extent_ button.
+
+As you zoomed in and out, notice that the **Scale** value in the Status Bar changes. The **Scale** value represents the Map Scale. In general, the number to the right of **:** represents how many times smaller the object you are seeing in the Map Canvas is to the actual object in the real world.
+
+![2.3.1 D map scale](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.3.1%20D%20map_scale1.png)
+You can also use this field to set the Map Scale manually.
+
+* In the Status Bar, click on the Scale textfield.
+* Type in _50000_ and press Enter. This will redraw the features in the Map Canvas to reflect the scale you typed in.
+* Alternatively, click on the options arrow of the **Scale** field to see the preset map scales.
+![2.3.1 E map scale options](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.3.1%20E%20map_scale_options.png)
+
+Select 1:5000. This will also update the map scale in the Map Canvas.
+
+Now you know the basics of navigating the Map Canvas. Check out the User Manual on [Zooming and Panning](https://docs.qgis.org/testing/en/docs/user_manual/introduction/general_tools.html#zoom-pan) to learn about alternative ways of navigating the Map Canvas.
+
+### 2.3.2. In Conclusion
+Knowing how to navigate the Map Canvas is important, as it allows one to explore and visually inspect the layers. This could be done for initial data exploration, or to validate output of a spatial analysis.
