@@ -20,3 +20,18 @@ In the main area of the dialog you should see many shapes with different colors.
 5. Measure line
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#223---try-yourself-2)
+
+### 3.1.2 Try Yourself Exploring Vector Data Attributes
+There should be **XXX** fields in the rivers layer:
+
+1. Select the **layer** in the Layers panel.
+2. Right-click and choose **Open Attribute Table**, or press the openTable button on the **Attributes Toolbar**.
+3. Count the number of columns.
+
+**!Tip**
+
+A quicker approach could be to double-click the rivers layer, open the Layer properties ‣ Fields tab, where you will find a numbered list of the table’s fields.
+
+Information about places is available in the **places layer**. Open its attribute table as you did with the **rivers** layer: there are **XX** features whose **place** attribute is set to **XXX**: **XXX** and **XXX**. You can add comment on other fields from these two records, if you like.
+
+[Back to text]
