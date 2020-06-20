@@ -11,5 +11,5 @@ QGIS Online Course (Archaeologists &amp; Historians)
 8. Module: Rasters
 9. Module: Completing the Analysis
 10. [Module: Georeferencing a Map](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/10.%20Module:_Georeferencing_a_map.md)
-11. Module: First Analyses
+11. [Module: First Analyses] (https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/11.%20Module:_First_Analyses.md)
 12. Module: Site Catchment
