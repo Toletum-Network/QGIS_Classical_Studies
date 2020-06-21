@@ -52,3 +52,9 @@ Your map should now look like this:
 **ENTER SCREENSHOT** 3.2.2 B
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
+
+### 4.1.1. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Attribute data
+
+The _name_ field is the most useful to show as labels. This is because all its values are unique for every object and are very unlikely to contain NULL values. If your data contains some NULL values, do not worry as long as most of your places have names.
+
+[Back to text]
