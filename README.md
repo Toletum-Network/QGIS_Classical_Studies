@@ -1,6 +1,10 @@
 # AutumnSchool 2020
 QGIS Online Course (Archaeologists &amp; Historians)
 
+**The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
+
+The focus of the material can easily be adjusted to other regions and studies.
+
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/1.%20Course%20Introduction.md)
 2. [Module: The Interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md)
