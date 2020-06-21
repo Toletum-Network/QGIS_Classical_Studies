@@ -35,3 +35,14 @@ A quicker approach could be to double-click the rivers layer, open the Layer pro
 Information about places is available in the **places layer**. Open its attribute table as you did with the **rivers** layer: there are **XX** features whose **place** attribute is set to **XXX**: **XXX** and **XXX**. You can add comment on other fields from these two records, if you like.
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#312--try-yourself-exploring-vector-data-attributes)
+
+### 3.2.2 Try it Yourself colors
+* Verify that the colors are changing as you expect them to change.
+* It is enough to select the **water** layer in the legend and then click on the ![Symbology](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/symbology.png) _Open the Layer Styling panel_ button. Change the color to one that fits the water layer.
+
+**!Note**
+
+If you want to work on only one layer at a time and don’t want the other layers to distract you, you can hide a layer by clicking in the checkbox next to its name in the layers list. If the box is blank, then the layer is hidden.
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
+
