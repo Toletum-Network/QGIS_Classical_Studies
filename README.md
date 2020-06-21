@@ -4,7 +4,7 @@ QGIS Online Course (Archaeologists &amp; Historians)
 1. [Course Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/1.%20Course%20Introduction.md)
 2. [Module: The Interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md)
 3. [Module: Creating a Basic Map](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md)
-4. Module: Classifying Vector Data
+4. [Module: Classifying Vector Data](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/4.%20Module:%20Classifying%20Vector%20Data.md)
 5. Module: Creating Maps
 6. Module: Creating Vector Data
 7. Module: Vector Analysis
