@@ -34,4 +34,4 @@ A quicker approach could be to double-click the rivers layer, open the Layer pro
 
 Information about places is available in the **places layer**. Open its attribute table as you did with the **rivers** layer: there are **XX** features whose **place** attribute is set to **XXX**: **XXX** and **XXX**. You can add comment on other fields from these two records, if you like.
 
-[Back to text]
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#312--try-yourself-exploring-vector-data-attributes)
