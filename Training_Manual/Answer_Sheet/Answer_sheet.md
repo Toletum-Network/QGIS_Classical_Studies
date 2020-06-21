@@ -49,6 +49,6 @@ If you want to work on only one layer at a time and don’t want the other layer
 ### 3.2.2 Try it Yourself Changing Symbol Structure
 Your map should now look like this:
 
-**ENTER SCREENSHOT** 3.2.2 A
+**ENTER SCREENSHOT** 3.2.2 B
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
