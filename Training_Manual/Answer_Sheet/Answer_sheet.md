@@ -63,4 +63,4 @@ The _name_ field is the most useful to show as labels. This is because all its v
 The symbology doesn’t matter, but the results should look more or less like this:
 ![Results]()
 
-[Back to text]()
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md#614--try-yourself-digitizing-lines)
