@@ -14,7 +14,7 @@ The focus of the material can easily be adjusted to other regions and studies.
 6. [Module: Creating Vector Data](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md)
 7. [Module: Vector Analysis](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md)
 8. [Module: Rasters](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/8.%20Module:%20Rasters.md)
-9. Module: Completing the Analysis
+9. [Module: Completing the Analysis](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md)
 10. [Module: Digitizing a Map and its Content](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/10.%20Module:_Digitizing_a_Map_and_its_Content.md)
 11. [Module: First Analyses](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/11.%20Module:_First_Analyses.md)
 12. [Module: Site Catchment](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md)
