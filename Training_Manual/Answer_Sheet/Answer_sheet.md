@@ -84,3 +84,21 @@ To this:
 The first image shows the buffer with the **``Segments to approximate``** value set to **``5``** and the second shows the value set to **``20``**. In our example, the difference is subtle, but you can see that the buffer’s edges are smoother with the higher value.
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#727--try-yourself-distance-from-cities)
+
+### 7.2.10. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Further Filter
+
+To create the new ~**``houses_restaurants_500m``**~ layer, we go through a two step process:
+
+First, create a buffer of 500m around the restaurants and add the layer to the map:
+
+![7.2.10 Answer A]()
+
+![7.2.10 Answer B]()
+
+Next, extract buildings within that buffer area:
+
+![7.2.10 Answer C]()
+
+Your map should now show only those buildings which are within 50m of a road, 1km of a school and 500m of a restaurant:
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#7210--try-yourself-further-filter)
