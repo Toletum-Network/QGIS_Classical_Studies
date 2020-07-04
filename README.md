@@ -1,5 +1,5 @@
 # AutumnSchool 2020
-QGIS Online Course (Archaeologists &amp; Historians)
+QGIS Online Course for Classical Studies
 
 **The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
 
