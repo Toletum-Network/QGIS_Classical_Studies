@@ -2,7 +2,7 @@
 ### 2.1.2 _Adding Your First Layer_
 In the main area of the dialog you should see many shapes with different colors. Each shape belongs to a layer you can identify by its color in the left panel (your colors may be different from the ones below):
 
-**ENTER SCREENSHOT**
+![2.1.2 Answer](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.1.2%20Answer.png)
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#212--try-yourself)
 ## 2.2 _An Overview of the Interface_
