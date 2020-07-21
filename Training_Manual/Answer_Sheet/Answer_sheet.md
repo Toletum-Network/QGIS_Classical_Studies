@@ -12,10 +12,10 @@ The elements identified in the figure above are:
 
 1. Layers List / Browser Panel
 2. Toolbars
-3. Map canvas
-4. Status bar
-5. Side Toolbar
-6. Locator bar
+3. **Map canvas**
+4. **Status bar**
+5. **Side Toolbar**
+6. **Locator bar**
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#222---try-yourself-1)
 
