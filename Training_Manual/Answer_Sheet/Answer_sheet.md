@@ -7,6 +7,15 @@ In the main area of the dialog you should see many shapes with different colors.
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#212--try-yourself)
 ## 2.2 _An Overview of the Interface_
 ### 2.2.2 Try Yourself 1
+![2.2.1 A interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.2.1%20A%20gui_numbered.png)
+The elements identified in the figure above are:
+
+1. Layers List / Browser Panel
+2. Toolbars
+3. Map canvas
+4. Status bar
+5. Side Toolbar
+6. Locator bar
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#222---try-yourself-1)
 
