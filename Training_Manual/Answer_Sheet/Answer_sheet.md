@@ -19,8 +19,6 @@ The elements identified in the figure above are:
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#222---try-yourself-1)
 
-**ENTER SCREENSHOT**
-
 ### 2.2.3 Try Yourself 2
 1. **``Save as``**
 2. **``Zoom to layer``**
