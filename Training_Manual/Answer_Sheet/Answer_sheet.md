@@ -62,7 +62,7 @@ Your map should now look like this:
 
 ### 4.1.1. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Attribute data
 
-The _name_ field is the most useful to show as labels. This is because all its values are unique for every object and are very unlikely to contain NULL values. If your data contains some NULL values, do not worry as long as most of your places have names.
+The _canon_name_ field is the most useful to show as labels. This is because all its values are unique for every object and are very unlikely to contain NULL values. If your data contains some NULL values, do not worry as long as most of your places have names.
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/4.%20Module:%20Classifying%20Vector%20Data.md#411--follow-along-attribute-data)
 
