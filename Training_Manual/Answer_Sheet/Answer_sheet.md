@@ -53,10 +53,10 @@ If you want to work on only one layer at a time and don’t want the other layer
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
 
-### 3.2.2 Try it Yourself Changing Symbol Structure
+### 3.2.4 Try it Yourself Changing Symbol Structure
 Your map should now look like this:
 
-**ENTER SCREENSHOT** 3.2.2 B
+![3.2.4 B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/686b362383f06cd4eced63ac4d02d32d8ecde757/Screenshots/3.2.4%20A%20result%20symbology.png)
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
 
