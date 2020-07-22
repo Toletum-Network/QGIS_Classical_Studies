@@ -45,10 +45,10 @@ Information about places is available in the **``places layer``**. Open its attr
 
 ### 3.2.2 Try it Yourself colors
 * Verify that the colors are changing as you expect them to change.
-* It is enough to select the **``water``** layer in the legend and then click on the ![Symbology](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/symbology.png) _Open the Layer Styling panel_ button. Change the color to one that fits the water layer.
+* It is enough to select the **``provinces``** layer in the legend and then click on the ![Symbology](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/symbology.png) _Open the Layer Styling panel_ button. Click the color and change the opacity of the color to 0%. The boundary of the province will remain black. You can choose to change this as well.
 
 **!Note**
-
+If you use the opacity of the layer, that is the blue slider in the layer styling, you will make the whole layer transparent.
 If you want to work on only one layer at a time and don’t want the other layers to distract you, you can hide a layer by clicking in the checkbox next to its name in the layers list. If the box is blank, then the layer is hidden.
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#322--try-yourself)
