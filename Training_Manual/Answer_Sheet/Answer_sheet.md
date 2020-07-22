@@ -29,7 +29,7 @@ The elements identified in the figure above are:
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#223---try-yourself-2)
 
 ### 3.1.2 Try Yourself Exploring Vector Data Attributes
-There should be **XXX** fields in the **``rivers``** layer:
+There should be **8** fields in the **``roads``** layer:
 
 1. Select the layer in the **``Layers``** panel.
 2. Right-click and choose **``Open Attribute Table``**, or press the ![openTable](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/mActionOpenTable.png) button on the **``Attributes Toolbar``**.
@@ -37,9 +37,9 @@ There should be **XXX** fields in the **``rivers``** layer:
 
 **``!Tip``**
 
-A quicker approach could be to double-click the **``rivers``** layer, open the **``Layer properties ‣ Fields``** tab, where you will find a numbered list of the table’s fields.
+A quicker approach could be to double-click the **``roads``** layer, open the **``Layer properties ‣ Fields``** tab, where you will find a numbered list of the table’s fields.
 
-Information about places is available in the **``places layer``**. Open its attribute table as you did with the **``rivers``** layer: there are **XX** features whose **``place``** attribute is set to ~_town_~: ~_Swellendam_~ and ~_Buffeljagsrivier_~. You can add comment on other fields from these two records, if you like.
+Information about places is available in the **``places layer``**. Open its attribute table as you did with the **``roads``** layer: there are **26** fields. The amount of data available might seem overwhelming at first. But when working with big data it is good practice to spend some time on understanding the _fields_ and _records_. 
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#312--try-yourself-exploring-vector-data-attributes)
 
