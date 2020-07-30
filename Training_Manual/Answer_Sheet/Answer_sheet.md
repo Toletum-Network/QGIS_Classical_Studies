@@ -69,7 +69,7 @@ The _canon_name_ field is the most useful to show as labels. This is because all
 ### 6.1.4 ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Digitizing
 The symbology doesn’t matter, but the results should look more or less like this:
 
-![Results 6.1.4 B]()
+![Results 6.1.4 B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/6.1.4%20B.png)
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md#614--try-yourself-digitizing-lines)
 
