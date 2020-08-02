@@ -5,8 +5,6 @@ QGIS Online Course for Classical Studies
 
 The focus of the material can easily be adjusted to other regions and studies.
 
-The Programme and Outline of the course can be found [here](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Programme.md)
-
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/1.%20Course%20Introduction.md)
 2. [Module: The Interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md)
@@ -18,7 +16,7 @@ The Programme and Outline of the course can be found [here](https://github.com/T
 8. [Module: Rasters](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/8.%20Module:%20Rasters.md)
 9. [Module: Completing the Analysis](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md)
 10. [Module: Digitizing a Map and its Content](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/10.%20Module:_Digitizing_a_Map_and_its_Content.md)
-11. [Module: First Analyses](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/11.%20Module:_First_Analyses.md)
+11. [Module: Spatial Analyses](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/11.%20Module:_First_Analyses.md)
 12. [Module: Site Catchment](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md)
 
 
