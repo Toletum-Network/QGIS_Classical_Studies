@@ -11,7 +11,7 @@ We plan to have two different types of meetings. First the Teams meetings where 
 
 ## Challenges and issues 
 
-If you encounter an issue or are challenged by the course you can raise an issue via Github. Before raising an issue check whether the issue has already been raised. 
+If you encounter an issue or are challenged by the course you can raise an issue via our course [Github](https://github.com/Toletum-Network/AutumnSchool_2020/issues). Before raising an issue check whether the issue has already been raised. 
 Everybody can respond to an issue, either by adding on to it, or by solving is. We will obviously be monitoring the issues and help where needed. This way we all benefit form each others knowledge and experience. 
 More complicated issues will be discussed during the Q&A sessions planned via Teams. 
 
