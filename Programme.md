@@ -7,7 +7,7 @@
 |Q&A Skype|-----|13:00-15:00 UTC|-----|15:00-16:00 UTC|-----|
 
 ## Meetings
-We plan to have two different types of meetings. First the Taams meetings where we are 
+We plan to have two different types of meetings. First the Teams meetings where we are available for every body at the 
 
 ## Challenges and issues 
 
