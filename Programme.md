@@ -3,8 +3,8 @@
 | |Day 1|Day 2|Day 3|Day 4|Day 5|
 |-----|-----|-----|-----|-----|-----|
 |Module|[Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/1.%20Course%20Introduction.md) & [Interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md)|-----|-----|-----|-----|
-|Q&A Teams|13:00-14:00 UTC||13:00-14:00 UTC|13:00-14:00 UTC|-----|13:00-14:00 UTC|
-|Q&A Skype|-----|13:00-15:00 UTC|-----|15:00-16:00 UTC|-----|
+|Q&A Teams|13:00-14:00 (UTC+2)||13:00-14:00 (UTC+2)|13:00-14:00 (UTC+2)|-----|13:00-14:00 (UTC+2)|
+|Q&A Skype|-----|13:00-15:00 (UTC+2)|-----|15:00-16:00 (UTC+2)|-----|
 
 ## Meetings
 We plan to have two different types of meetings. First the Teams meetings where we are available for every body at the 
