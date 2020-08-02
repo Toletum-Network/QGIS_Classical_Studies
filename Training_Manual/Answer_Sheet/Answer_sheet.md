@@ -73,20 +73,16 @@ The symbology doesn’t matter, but the results should look more or less like th
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md#614--try-yourself-digitizing-lines)
 
-### 7.2.7. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself Distance from cities
-Your buffer dialog should look like this:
-
-![7.2.7 Answer A]()
-
-The **``Buffer distance``** is **``1``** kilometer.
+### 7.2.6. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself Distance from Tagili
+The **``Buffer distance``** is **``5``** kilometer.
 
 The **``Segments to approximate``** value is set to **``20``**. This is optional, but it’s recommended, because it makes the output buffers look smoother. Compare this:
 
-![7.2.7 Answer B]()
+![7.2.6 Answer A]()
 
 To this:
 
-![7.2.7 Answer C]()
+![7.2.6 Answer B]()
 
 The first image shows the buffer with the **``Segments to approximate``** value set to **``5``** and the second shows the value set to **``20``**. In our example, the difference is subtle, but you can see that the buffer’s edges are smoother with the higher value.
 
