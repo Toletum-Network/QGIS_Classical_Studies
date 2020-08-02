@@ -1,28 +1,15 @@
-Programme 
+# Programme 
 
+|-----|Day 1|Day 2|Day 3|Day 4|Day 5|
+|-----|-----|-----|-----|-----|-----|
+|Module|Introduction|-----|-----|-----|-----|
+|Q&A Teams|13:00-14:00 UTC||13:00-14:00 UTC|13:00-14:00 UTC|-----|13:00-14:00 UTC|
+|Q&A Skype|-----|13:00-15:00 UTC|-----|15:00-16:00 UTC|-----|
 
-Day 1 
-Q&A Teams 13 and 14h
-Introduction. 
-
-Day 2 
-Q&A Teams 13 and 14h
-Possible individual help between 14 and 15
-
-Day 3 
-Q&A Skype between 13 and 15h
-
-Day 4 
-Questions via e-mail and individual appointments. 
-
-Day 5
-Q&A Teams 13 and 14h
-Q&A Skype between 13 and 15h
-
-Meetings
+## Meetings
 We plan to have two different types of meetings. First the Taams meetings where we are 
 
-Challenges and issues 
+## Challenges and issues 
 
 If you encounter an issue or are challenged by the course you can raise an issue via Github. Before raising an issue check whether the issue has already been raised. 
 Everybody can respond to an issue, either by adding on to it, or by solving is. We will obviously be monitoring the issues and help where needed. This way we all benefit form each others knowledge and experience. 
