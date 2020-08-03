@@ -78,11 +78,11 @@ The **``Buffer distance``** is **``5``** kilometer.
 
 The **``Segments to approximate``** value is set to **``20``**. This is optional, but it’s recommended, because it makes the output buffers look smoother. Compare this:
 
-![7.2.6 Answer A]()
+![7.2.6 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.2.6%20Answer%20A.png)
 
 To this:
 
-![7.2.6 Answer B]()
+![7.2.6 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.2.6%20Answer%20B.png)
 
 The first image shows the buffer with the **``Segments to approximate``** value set to **``5``** and the second shows the value set to **``20``**. In our example, the difference is subtle, but you can see that the buffer’s edges are smoother with the higher value.
 
