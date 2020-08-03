@@ -88,6 +88,12 @@ The first image shows the buffer with the **``Segments to approximate``** value 
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#727--try-yourself-distance-from-cities)
 
+### 7.2.8. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: One hour from Tagili
+
+![7.2.8 Answer]()
+
+[Back to text]()
+
 ### 7.2.10. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Further Filter
 
 To create the new ~**``houses_restaurants_500m``**~ layer, we go through a two step process:
