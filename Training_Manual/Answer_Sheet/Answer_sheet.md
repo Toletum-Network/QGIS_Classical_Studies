@@ -90,9 +90,9 @@ The first image shows the buffer with the **``Segments to approximate``** value 
 
 ### 7.2.8. ![basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: One hour from Tagili
 
-![7.2.8 Answer]()
+![7.2.8 Answer](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.2.8%20Answer.png)
 
-[Back to text]()
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#728--follow-along-one-hour-from-tagili)
 
 ### 7.2.10. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Further Filter
 
