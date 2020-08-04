@@ -9,7 +9,7 @@
 Obviously, you are free to set your own time table. This is just an aid in planning the sessions within the weekdays of our course. 
 
 ## Meetings
-We plan to have two different types of online meetings. First the group meetings where we are aim at treating the issues and challenges we have enciountered with the whole group. In addition, we have slots where we are available for more personal guidance if needed. For the individual meetings (max 20 min) you have to send an e-mail with a preferred time slot and your question to gistoletum(a)gmail.com. 
+We plan to have two different types of online meetings. First the group meetings where we are aim at treating the issues and challenges we have encountered with the whole group. In addition, we have slots where we are available for more personal guidance if needed. For the individual meetings (max. 20 min) you have to send an e-mail with a preferred time slot and your question to gistoletum(a)gmail.com. 
 
 ## Challenges and issues 
 If you encounter an issue or are challenged by the course you can raise an issue via our course [Github](https://github.com/Toletum-Network/AutumnSchool_2020/issues). The issue can be a problem with the walk through in the manual, the presentations or questions about the literature. Before raising an issue check whether the issue has already been raised. Please add a title to the issue stating clearly to which material it refers. This makes responding to your issue easier.
