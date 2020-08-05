@@ -111,3 +111,8 @@ Next, extract buildings within that buffer area:
 Your map should now show only those buildings which are within 50m of a road, 1km of a school and 500m of a restaurant:
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#7210--try-yourself-further-filter)
+
+### 12.1.4. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself: Calculating the aspect
+
+![7.2.8 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20A.png)
+![7.2.8 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20B.png)
