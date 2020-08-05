@@ -13,10 +13,10 @@ We plan to have two different types of online meetings. First the group meetings
 
 ## Challenges and issues 
 If you encounter an issue or are challenged by the course you can raise an issue via our course [Github](https://github.com/Toletum-Network/AutumnSchool_2020/issues). The issue can be a problem with the walk through in the manual, the presentations or questions about the literature. Before raising an issue check whether the issue has already been raised. Please add a title to the issue stating clearly to which material it refers. This makes responding to your issue easier.
-Everybody can respond to an issue, either by adding on to it, or by solving is. We will obviously be monitoring the issues and help where needed. This way we all benefit form each others knowledge and experience. 
+Everybody can respond to an issue, either by adding on to it, or by solving it. We will obviously be monitoring the issues and help where needed. This way we all benefit from each others knowledge and experience. 
 More complicated or reoccuring issues will be discussed during the Q&A Group sessions. 
 
 Although it is preferable to raise issues and questions via Github there is the possibility to send an e-mail to us via the gistoletum(a)gmail.com.
-If you prefer to have a individual call to discuss an issue we ask you to flag this in your e-mail requesting the Q&A . This way we can optimize the time we have for the call.
+If you prefer to have a individual call to discuss an issue we ask you to flag this in your e-mail requesting the Q&A. This way we can optimize the time we have for the call.
 
 If you cannot finish the course within the set time of one week we will be available afterwards for questions via Issues and/or e-mail. However, live Q&A will not be a possibility.
