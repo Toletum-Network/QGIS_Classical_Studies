@@ -114,5 +114,6 @@ Your map should now show only those buildings which are within 50m of a road, 1k
 
 ### 12.1.4. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself: Calculating the aspect
 
-![7.2.8 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20A.png)
-![7.2.8 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20B.png)
+![12.1.4 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20A.png)
+![12.1.4 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20B.png)
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md.md#1214--try-yourself-Calculating-the-aspect-)
