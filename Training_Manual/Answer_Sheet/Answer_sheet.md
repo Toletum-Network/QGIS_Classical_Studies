@@ -96,21 +96,30 @@ The first image shows the buffer with the **``Segments to approximate``** value 
 
 ### 7.2.10. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Further Filter
 
-To create the new ~**``houses_restaurants_500m``**~ layer, we go through a two step process:
+The **``Clipping tool``** should be filled as follows:
 
-First, create a buffer of 500m around the restaurants and add the layer to the map:
+![7.2.10 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.2.10%20Answer%20A.png)
+The final result should look like this:
 
-![7.2.10 Answer A]()
-
-![7.2.10 Answer B]()
-
-Next, extract buildings within that buffer area:
-
-![7.2.10 Answer C]()
-
-Your map should now show only those buildings which are within 50m of a road, 1km of a school and 500m of a restaurant:
+![7.2.10 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.2.10%20Answer%20B.png)
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#7210--try-yourself-further-filter)
+
+### 7.3.3 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Fastest path
+
+Open **``Network Analysis ‣ Shortest Path (Point to Point)``** and fill the dialog as:
+
+![7.3.3 A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.3.3%20A%20fastest_path_result.png)
+
+Make sure that the **``Path type to calculate``** is _Fastest_.
+
+Click on **``Run``** and close the dialog.
+
+Open now the attribute table of the output layer. The **``cost``** field contains the travel time between the two points (as fraction of hours):
+
+![7.3.3 B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/7.3.3%20B%20fastest_path_attribute.png)
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#733--try-yourself-fastest-path)
 
 ### 12.1.4. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself: Calculating the aspect
 
