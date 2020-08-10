@@ -127,7 +127,7 @@ Open now the attribute table of the output layer. The **``cost``** field contain
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#912--try-yourself)
 
-### ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Finishing the Analysis
+### ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) 9.2.3 Try Yourself Finishing the Analysis
 
 The final result should be something like this:
 
@@ -139,7 +139,7 @@ The final result should be something like this:
 
 Your final map should look something like this: 
 
-![9.3](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/9.3%20Answer.tiff)
+![9.3](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/9.3%20Answer.png)
 
 Obviously the warning should not be included in your result. However, when making maps we have to realise that this will be taken as a reality by many people. We should always keep this in mind when creating maps, especially when we put these online.
 
