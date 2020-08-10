@@ -121,6 +121,30 @@ Open now the attribute table of the output layer. The **``cost``** field contain
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md#733--try-yourself-fastest-path)
 
+### 9.1.2 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself
+
+![9.1.2 A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/9.1.2%20A.png)
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#912--try-yourself)
+
+### ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Try Yourself Finishing the Analysis
+
+The final result should be something like this:
+
+![9.2.3](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/9.2.3%20Answer.png)
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#923--try-yourself-finishing-the-analysis)
+
+### 9.3 Assignment
+
+Your final map should look something like this: 
+
+![9.3](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/9.3%20Answer.tiff)
+
+Obviously the warning should not be included in your result. However, when making maps we have to realise that this will be taken as a reality by many people. We should always keep this in mind when creating maps, especially when we put these online.
+
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#93-assignment)
+
 ### 12.1.4. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself: Calculating the aspect
 
 ![12.1.4 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20A.png)
