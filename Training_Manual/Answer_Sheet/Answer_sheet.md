@@ -26,7 +26,7 @@ The elements identified in the figure above are:
 4. **``Rendering on/off``**
 5. **``Measure line``**
 
-[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#223---try-yourself-2)
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md#223---try-yourself-2)
 
 ### 3.1.2 Try Yourself Exploring Vector Data Attributes
 There should be **8** fields in the **``roads``** layer:
