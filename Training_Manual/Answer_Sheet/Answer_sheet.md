@@ -17,7 +17,7 @@ The elements identified in the figure above are:
 5. **Side Toolbar**
 6. **Locator bar**
 
-[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#222---try-yourself-1)
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md#212--try-yourself)
 
 ### 2.2.3 Try Yourself 2
 1. **``Save as``**
