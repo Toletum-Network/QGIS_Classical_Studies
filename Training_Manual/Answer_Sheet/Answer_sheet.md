@@ -127,7 +127,7 @@ Open now the attribute table of the output layer. The **``cost``** field contain
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#912--try-yourself)
 
-### ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) 9.2.3 Try Yourself Finishing the Analysis
+### 9.2.3 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) 9.2.3 Try Yourself Finishing the Analysis
 
 The final result should be something like this:
 
