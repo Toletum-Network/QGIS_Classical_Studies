@@ -4,7 +4,7 @@ In the main area of the dialog you should see many shapes with different colors.
 
 ![2.1.2 Answer](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.1.2%20Answer.png)
 
-[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/Module_The_Interface.md#212--try-yourself)
+[Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/2.%20Module:_The_Interface.md#212--try-yourself)
 ## 2.2 _An Overview of the Interface_
 ### 2.2.2 Try Yourself 1
 ![2.2.1 A interface](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/2.2.1%20A%20gui_numbered.png)
