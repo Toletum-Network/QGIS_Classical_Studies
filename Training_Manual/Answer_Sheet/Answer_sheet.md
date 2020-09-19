@@ -145,7 +145,8 @@ Obviously the warning should not be included in your result. However, when makin
 
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#93-assignment)
 
-### 12.1.4. ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself Calculating the aspect
+
+### 12.1.4 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png)  Try Yourself Calculating the aspect
 
 ![12.1.4 Answer A](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20A.png)
 ![12.1.4 Answer B](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.4%20Answer%20B.png)
