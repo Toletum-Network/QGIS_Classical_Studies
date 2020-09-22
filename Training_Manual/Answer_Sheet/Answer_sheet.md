@@ -143,6 +143,8 @@ Your final map should look something like this:
 
 Obviously the warning should not be included in your result. However, when making maps we have to realise that this will be taken as a reality by many people. We should always keep this in mind when creating maps, especially when we put these online.
 
+As a visual aid to understand the landscape we have also activated the DEM we created in [Module 8.1.2](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/8.%20Module:%20Rasters.md#812--follow-along-create-a-virtual-raster) and the hillshade of [Module 8.3.1](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/8.%20Module:%20Rasters.md#831--follow-along-calculating-a-hillshade).
+
 [Back to text](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/9.%20Module:%20Completing%20the%20Analysis.md#93-assignment)
 
 
