@@ -5,7 +5,7 @@ QGIS Online Course for Classical Studies
 
 The focus of the material can easily be adjusted to other regions and studies.
 
-The programme and outline of the course can be found [here](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Programme.md).
+When you are officially following the course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Programme.md).
 
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/1.%20Course%20Introduction.md)
