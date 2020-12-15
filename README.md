@@ -22,4 +22,6 @@ When you are officially following the course the latest programme and outline of
 12. [Module: Site Catchment](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md)
 
 
+[Further reading bibliography]()
+
 
