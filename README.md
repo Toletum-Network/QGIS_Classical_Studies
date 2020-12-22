@@ -10,7 +10,6 @@ If you are  following a guided course the latest programme and outline of the co
 
 **The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and the option of booking personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
 
-If you are officially following the course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Programme.md).
 
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/1.%20Course%20Introduction.md)
