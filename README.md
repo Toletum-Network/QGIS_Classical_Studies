@@ -8,7 +8,7 @@ Besides self-study, we offer the possibility to book a **guided course** for gro
 
 If you are  following a guided course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Programme.md). 
 
-**The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
+**The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and the option of booking personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
 
 If you are officially following the course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Programme.md).
 
