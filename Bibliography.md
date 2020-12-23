@@ -44,7 +44,7 @@ Wilson – J. C. Gallant (Ed.), _Terrain Analysis: Principles and Applications_ 
 
 ## Online resources
 
-[GIS Forum](https://gis.stackexchange.com/) for solving issues you will encounter 
+[GIS Stack Exchange](https://gis.stackexchange.com/) for solving issues you will encounter 
 
 [GISGeography](https://gisgeography.com/)
 
