@@ -55,4 +55,4 @@ Wilson – J. C. Gallant (Ed.), _Terrain Analysis: Principles and Applications_ 
 
 [Numberphile _A Strange Map Projection (Euler Spiral)_](https://www.youtube.com/watch?v=D3tdW9l1690)
 
-[Luna, M. Geographic Coordinate System](https://www.youtube.com/watch?v=ggdR9YAVshQ)
+[Luna, M. _Geographic Coordinate System_](https://www.youtube.com/watch?v=ggdR9YAVshQ)
