@@ -42,7 +42,7 @@ Wade, T & S. Sommer _A to Z GIS: An Illustrated Dictionary of Geographic Informa
 
 Wilson – J. C. Gallant (Ed.), _Terrain Analysis: Principles and Applications_ (2000: Wiley) [Google Books Preview](https://books.google.de/books?id=1311_4-zvy4C&lpg=PR15&lr&hl=de&pg=PR3#v=onepage&q&f=false).
 
-# Online resources
+## Online resources
 
 [GIS Forum](https://gis.stackexchange.com/) for solving issues you will encounter 
 
@@ -50,7 +50,7 @@ Wilson – J. C. Gallant (Ed.), _Terrain Analysis: Principles and Applications_ 
 
 [GISLounge](https://www.gislounge.com/)
 
-# Videos
+## Videos
 [AMDGS video _Understanding Vector vs Raster data for GIS_](https://www.youtube.com/watch?v=-673CMknhh0)
 
 [Numberphile _A Strange Map Projection (Euler Spiral)_](https://www.youtube.com/watch?v=D3tdW9l1690)
