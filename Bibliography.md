@@ -54,3 +54,5 @@ Wilson – J. C. Gallant (Ed.), _Terrain Analysis: Principles and Applications_ 
 [AMDGS video _Understanding Vector vs Raster data for GIS_](https://www.youtube.com/watch?v=-673CMknhh0)
 
 [Numberphile _A Strange Map Projection (Euler Spiral)_](https://www.youtube.com/watch?v=D3tdW9l1690)
+
+[Luna, M. _Geographic Coordinate System](https://www.youtube.com/watch?v=ggdR9YAVshQ)
