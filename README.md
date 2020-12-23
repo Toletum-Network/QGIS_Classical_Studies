@@ -26,6 +26,6 @@ If you are  following a guided course the latest programme and outline of the co
 12. [Module: Site Catchment](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md)
 
 
-[Further reading bibliography](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md)
+[Further Reading](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md) This section includes the literature we used, some online resources and videos.
 
 
