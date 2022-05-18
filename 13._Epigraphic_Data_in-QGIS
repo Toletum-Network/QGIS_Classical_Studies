@@ -1,0 +1,30 @@
+[Previous Module: Spatial Analyses](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md#12-site-catchment)
+
+
+# 13. Epigraphic Data in QGIS
+
+[Exercise data and Additional eductional material](https://drive.google.com/drive/folders/1T8gJAiNYTXrsWkUwT6pxyY8fJTVnYyNy?usp=sharing)
+
+This section is created for the Summer Course [De la piedra a tu pantalla](https://cursosextraordinarios.unizar.es/curso/2022/taller-de-la-piedra-tu-pantalla-introduccion-las-herramientas-de-la-epigrafia-digital) held in Zaragoza in June 2022. The section is a basic instruction to map and analyse epigraphic data obtained from open access websites. As such the page holds basic insctructions treated in more detail in other modules.
+
+
+## 13.1. Epigraphic Data
+
+**The goal for this lesson:** Understanding and using epigraphic data for spatial analysis.
+
+**``! Note``** 
+We will use epigraphic data obtained via 
+ 
+
+### 12.1.1. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Buffering
+For a catchment analysis of our settlements, we will need the following layers: _**L12_AnArqAnd_SurveyAlmanzora.shp**_, _**L12_BTN25_RiversAlmanzora.shp**_, _**L12_CLC_LanduseAlmanzora.shp**_. As you learned within the additional material, there are different ways of performing such an analysis. We will use the simple way of calculating an area of 2km surrounding each settlement. 
+Therefore open **``Vector ‣ Geoprocessing Tools ‣ Buffer``** and choose _**L12_AnArqAnd_SurveyAlmanzora.shp**_ as **`Input layer`**, a **`Distance`** of _`2.0`_ (and don’t forget to set the scale to **`kilometers`**!) and **`Segments`** to _`20`_. Your result should look something like this:
+
+![12.1.1 A Buffer](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Screenshots/12.1.1%20A%20Buffer.png)
+
+### 12.1.2. ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Follow Along: Refine catchment area
+Now we want to subtract rivers from our estimated territories, because these are not useable for agriculture. To do that, use **``Vector ‣ Geoprocessing Tools ‣ Difference``** and choose your temporary _**Buffered layer**_ as **`Input layer`** and _**L12_BTN25_RiversAlmanzora.shp**_ as **`Overlay layer`**. 
+
+**``! Note``** You will notice that _**L12_BTN25_RiversAlmanzora.shp**_ is a polygonal layer, in contrast to the earlier line layers we used for rivers before. To calculate the surface area of a river we need it to be polygonal rather than line data. When creating a new layer we have to consider the purpose.
+
+**``! Note``** The process might take a while, depending of your computer's speed. 
