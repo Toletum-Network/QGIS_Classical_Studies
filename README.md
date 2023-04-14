@@ -4,7 +4,7 @@ Originally Pieter Houten and Jan Schneider developed this course as a guided onl
 
 Here we make the course available for everyone as a **self-study** resource. If you have any problems, we recommend to have a look into our [Issues](https://github.com/Toletum-Network/QGIS_Classical_Studies/issues) section and browse through the closed issues. Another source for answers is the [GIS Stack Exchange](https://gis.stackexchange.com/). Maybe someone already had the same problem and a solution is posted. If not, raise a new issue here or on Stack Exchange so a member of the community can help you.
 
-Besides self-study, we offer the possibility to book a **guided course** for groups, which includes personal help via e-mail, online individual and group meetings and a scheduled course framework. You can find our contact information [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/1.%20Course%20Introduction.md#116-individual-contributors).
+Besides self-study, we offer the possibility to book a **guided course** for groups, which includes personal help via e-mail, online individual and group meetings and a scheduled course framework. Or tailored workshops focussing on the use of GIS analyses. You can find our contact information [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/1.%20Course%20Introduction.md#116-individual-contributors).
 
 If you are  following a guided course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Programme.md). 
 
