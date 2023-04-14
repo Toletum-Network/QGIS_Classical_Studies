@@ -29,4 +29,4 @@ If you are  following a guided course the latest programme and outline of the co
 [Further Reading](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md) This section includes the literature we used, some online resources and videos.
 
 ## QGIS Workshops
-I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/13._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
+I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
