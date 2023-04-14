@@ -1,6 +1,4 @@
-[Previous Module: Site Catchment](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md#12-site-catchment)
-
-# 13. Epigraphic Data in QGIS
+# I. Epigraphic Data in QGIS
 
 [Exercise data and Additional eductional material](https://drive.google.com/drive/folders/1q3xprKgpIYMI-sxLS_GJ_d5CzwamfFd3)
 
@@ -12,7 +10,7 @@ The [QGIS Online Course for Classical Studies](https://github.com/Toletum-Networ
 The the project file in our drive is set to the Portuguese Coordinate Reference System: EPSG: 3763 ERTS89/ Portugal TM06.
 It is advised to download all the data from the Drive and save it on your local drive. Files in the could tend to get corrupted due to network failures.
 
-## 13.1. Epigraphic Data
+## I.1. Epigraphic Data
 
 For our epigraphic data we resort to the publications in corpora and journals or to the epigraphic databases. In the past years we have seen a rise in databases providing different (sub)sets of epigraphy. Each of these has their own focus and thereby also pitfalls. One of the major problems of the epigraphic datasets is the limited spatial information. Often databases chose to select a (modern) place to represent all epigraphy of a specific region (e.g. the modern capital of a municipality for all epigraphy within this municipality). This decision might be to avoid the problems we encounter when we start entering findspots: are these the primary location of the inscription, or was it found in a secondary location? Despite these issues we can gather and combine information from these datasets and where needed improve spatial information.
 
@@ -30,15 +28,15 @@ Much of the data we will be using has been curated within the ERC-Project [Latin
 **``! Note``** <br>
 We will use the epigraphic data on the Conventus Pacensis. This data is digitally obtained via above mentioned datasets and improved using the publications by d'Encarnação *IRCP* and *IRCP 25 anos depois*.
 
-## 13.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Starting our map
+## I.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Starting our map
 Open the project file [*Pacensis_NAME.qgz*](https://drive.google.com/drive/folders/1q3xprKgpIYMI-sxLS_GJ_d5CzwamfFd3).
 
-### 13.2.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Base layer
+### I.2.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Base layer
 When we have the project open we should have a base layer from the Consortium of Ancient World Mappers ([CAWM](http://cawm.lib.uiowa.edu/index.html))
 
 A base layer helps us to find our bearing within the project. Depending on the type of base layer we can obtain different forms of infomation. For instance the geography, as in our case. The base layer we are using is a WMTS (Web Map Tile Service), this is an online layer composed of tiles. You will notice that when we zoom in and out the map will slowly fill the tiles. This type has the advantage that we don't have to save a large file. However, when we find ourselves without an internet connection, we will not have a base layer.
 
-### 13.2.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Adding vector data
+### I.2.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Adding vector data
 Besides a neat base layer we need some other data to work with. Before adding the epigraphy we will add some more data. All this data is in vector shape. To understand more about Vector data you can review Modules [4](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/4.%20Module:%20Classifying%20Vector%20Data.md), [6](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md) and [7](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/7.%20Module:%20Vector%20Analysis.md).<br>
 There are three main types of vector data:
 * Point
@@ -71,13 +69,13 @@ Load the _**Pacensis_Settlements.shp**_ vector dataset:
 
 Congratulations! You now have a basic map. Now would be a good time to save your work.
 
-### 13.2.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself
+### I.2.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Try Yourself
 Repeat the steps above to add the _**Pacensis_Roads.shp**_ and _**Pacensis_Territories.shp**_ layers from the same folder to the map. You can order your layers in the Layer Panel by dragging them: left click the layer you want to move, hold and drag up or down. If the CAWM layer covers your other layers, drag it to the lowest postion in the Layers Panel. 
 
-## 13.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Working with Vector Data
+## I.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Working with Vector Data
 All these layers are in a very simple layout. Depending on the layer order (ideally we have point layer, line layer, polygon layer and last base layer) we can see the different layers. But there is no differentation in the points and lines. Since our datasets have attributes ([more on attributes in Module 3](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/3.%20Module:_Creating_a_Basic_Map.md#311--follow-along-viewing-layer-attributes)) we can categorize our data.
 
-### 13.3.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Polygon Data
+### I.3.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Polygon Data
 We will start with the polygon data, or our territories. These are based on a 6 hour walking distance from the centres of self-governing communities of Pacensis (Houten 2021). When we right click the layer _**Territories**_ we can open the **`Properties`**. Then **`Symbology`**. Here we can start creating a new way of displaying the layer. We have multiple options:
 * No Symbols
 * Single symbol (this is default)
@@ -98,7 +96,7 @@ Next we want the outline of our territories to be a less strong and follow a dot
 
 Now we can see our base layer and have the territories less prominent on our map. 
 
-### 13.3.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Line Data
+### I.3.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Line Data
 Next up are the roads. When we right click the layer _**Roads**_ we can open the **`Properties`** again. We follow through until we see the options of **`Symbology`**:
 * No Symbols
 * Single symbol (this is current)
@@ -120,7 +118,7 @@ Change the Secondary Road **``Color``** to black and **``Stroke With``** to _0.1
 
 Now we have a map with a clear differentation between the types of roads. Moreover, on the left hand pane we can now see that the Layers panel has the option to deselect the types. If we want we can create a map with only the Main Roads.
 
-### 13.3.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Point Data
+### I.3.3 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Point Data
 Lastly we will turn to the most complicated dataset of these sets: the Settlements. Let us first get an idea of our data. 
 
 Right click the ``Settlements layer`` and select ``Open Attribute Table``.<br>
@@ -189,11 +187,11 @@ Your map should look something like this:
 ![image](https://user-images.githubusercontent.com/66669249/175347983-148bcdc3-9004-4f71-a793-18d5702cb08a.png)
 
 
-### 13.3.4 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Sheets to QGIS
+### I.3.4 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Sheets to QGIS
 Often we tend to work in sheets (Excel, OpenOffice, Google etc.) with our data. It would be great to have the possibility to upload this data directly into our QGIS.<br>
 This is possible if we use the CSV (Comma Separated Value) format. When saving our sheets we can opt to save it as a CSV.
 
-#### 13.3.4.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Adding a Delimited Text layer
+#### I.3.4.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Adding a Delimited Text layer
 We can upload the CSV via the **``Data Source Manager``** dialog allows you to choose the data to load depending on the data type. We’ll use it to load our datast on Emerita Augusta in Late Antiquity. This data has been collected within the [ATLAS-project](www.atlas-cities.com) and is mostly based on the [CILAE](https://cil2digital.web.uah.es/) database.
 
 Click the ![Data Source Manager](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/Open%20Data%20Source%20Manager.png) **``Open Data Source Manager``** button. Select the ![image](https://user-images.githubusercontent.com/66669249/175493332-d80bc172-3e4e-4031-800f-6761694af71e.png) Delimited text tab and click the **``...``** to open the directory. Locate the CSV ``Emerita_epigraphie``. 
@@ -226,18 +224,18 @@ Now we have added the CSV to our project. We can manipulate the symbology in the
 **``! Note``**<br>
 If you work with a CSV in QGIS and need to change anything else than attribute values (e.g. the name of the file, directory of the file, the names of columns or the number of columns), you will need to add the layer again.
 
-#### 13.3.4.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Delimited text to Shapefile
+#### I.3.4.2 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Delimited text to Shapefile
 If we want to work with the data as Vector data in shapefile format we can save it as a ESRI Shapefile. Richt click the layer in the layer panel. Then **``Export ‣ Save Features As...``** and the "Save Vector Layer As..." panel opens. 
 It should have ESRI Shapefile as default format. Choose the directory under File Name via ``...``, select the preferred folder.
 Leave all other field to default. make sure the box "Add saved file to map" is checked and hit ``OK``. 
 
 For more info on editing Vector data see [Module 6](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/6.%20Module:%20Creating%20Vector%20Data.md#6-module-creating-vector-data).
 
-## 13.4 Analysing Epigraphic Data
+## I.4 Analysing Epigraphic Data
 Now we have a basic map of Pacensis and we can upload the shapefile with the inscriptions from the conventus Pacensis. The inscriptions are all as single dots on the map. This way we have no way to work with them. Take a look at the attribute table to see the dataset and get an idea of our possibilities.<br>
 This data has been collected within the [LatinNow](latinnow.eu) project.
 
-### 13.4.1 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Filtering Data
+### I.4.1 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Filtering Data
 We will query and filter this data to create different kinds of maps. For this we will go one step deeper into writing expressions in SQL (the language we already used for the Rule-based symbology). If you want to learn more on SQL you can follow an [online tutorial](https://www.w3schools.com/sql/default.asp). 
 
 Click ![image](https://user-images.githubusercontent.com/66669249/175481361-437bda00-12dc-45e8-b5f3-fc23bb7c5e49.png) next to the **``Filter``** to open the **``Expression String Builder``**. Here we can write criterion for our filter. The central pane gives us the different expressions.
@@ -257,7 +255,7 @@ It is not needed to write each statement on one line. However, for readability o
 
 When we have written our expression correctly we will see to the bottom left "Preview: 0". If we have a mistake the Preview states "Expression is invalid". Check your expression for mistakes. Note that these could also be in the quotation marks " or '.
 
-### 13.4.2 Quantifying Data
+### I.4.2 Quantifying Data
 Even after our filtering we have the issue that in one location we might have multiple inscriptions. There are different ways of demonstrating this, the easiest ways are found under **``Symbology``**. here we findthat point data has a few options we have not yet treated:
 * Point displacement
 * Point Cluster
@@ -266,12 +264,12 @@ These will be the focus of this section.
 
 First set the _**``Inscriptions``**_ layer back to ``Single symbol``.
 
-#### 13.4.2.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Point Cluster
+#### I.4.2.1 ![Basic](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/basic.png) Point Cluster
 Under symbology we can switch the ``Symbology`` of our _**``Inscriptions``**_ to ``Point Cluster``. The single dots now have a number if we find more than one feature (inscription) in a location. Note that when we zoom out we see that the clusters become fewer. This can be changed with the ``Distane``. When we set the distance to _3000_ Meters at scale, we create clusters based on 3 km areas. We can choose the distance we consider useful for our analysis.
 
 ![image](https://user-images.githubusercontent.com/66669249/175771405-2a48bdad-dd98-4fcf-8e26-e8752ee8c8d8.png)
 
-#### 13.4.2.2 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Point Displacement
+#### I.4.2.2 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Point Displacement
 Point displacement is not really an ideal way of showing data with multiple features on one location. It can quickly become a very cluttered map. However, it can be a quick way to establish what we have and what to pay attention to.
 
 When we switch the ``Symbology`` of our _**``Inscriptions``**_ to ``Point Displacement`` we will end up with large circles all over the map. Similar to the ``Point Cluster`` we find the total number of features (inscriptions) indicated on the location.
@@ -292,7 +290,7 @@ Click ``Apply``. Now the map is easier to read. Note that the numbers on the loc
 
 When we open the **``Renderer``** and uncheck the box before ``Stone``. We can filter out these unspecified stone types and see a pattern. The use of Granite is mostly found in the north, whereas limestone is used in the south. Marble concentrates in the centre, which is little suprising as we find the quarries of Estremoz in this region.
 
-#### 13.4.2.3 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Heatmap
+#### I.4.2.3 ![moderate](https://github.com/Toletum-Network/AutumnSchool_2020/blob/master/Icons/moderate.png) Heatmap
 The last method for our course is the ``Heatmap``. This allows us to quickly display concentrations of epigraphy. Again we find a few parameters to tweak our map. First the ``color ramp``, the default setting is white to black (where black shows high concentration). <br>
 We can play with the colors and even set the lowest value to transparant:
 * Click the ``color ramp`` to open the ``Select Color Ramp`` pane.
@@ -310,7 +308,7 @@ For the epigraphy we cannot use the ``Weight points by``, this allows to weight 
 
 Lastly we have the ``Rendering quality``. This is a handy tool to quickly see your results. In the case of large datasets the ``Heatmap`` function can take a while to calculate. When ``Rendering quality``is set to _Fastest_ we get a very pixelated map, but it gives us an idea of what parameters we might have to change. After we have the Heatmap we want to show we can then set ``Rendering quality``to _Best_ for mapping.
 
-## 13.5 Mapping our results
+## I.5 Mapping our results
 After doing our analyses and demonstration we often want a printed map for publication. Unfortunately the course has limited time for QGIS. <br>
 Creating maps is explained in the online course in [Module 5: Creating Maps](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/5.%20Module:%20Creating%20Maps.md#5-module-creating-maps).
 
