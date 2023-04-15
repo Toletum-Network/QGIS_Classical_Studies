@@ -31,6 +31,7 @@ If you are  following a guided course the latest programme and outline of the co
 ## QGIS Workshops
 I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
 
+
 ## Courses and Workshops
 2020 Hamburg, Germany: TOLETUM Autumn School QGIS for Classics [German](https://www.toletum-network.com/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/) / [Spanish](https://www.toletum-network.com/es/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/)
 
