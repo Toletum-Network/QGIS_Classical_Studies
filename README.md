@@ -24,7 +24,7 @@ If you are  following a guided course the latest programme and outline of the co
 10. [Module: Digitizing a Map and its Content](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/10.%20Module:_Digitizing_a_Map_and_its_Content.md)
 11. [Module: Spatial Analyses](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/11.%20Module:_First_Analyses.md)
 12. [Module: Site Catchment](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/12.%20Module:_Site_Catchment.md)
-
+13. [Module: Walking Distance and improved Site Catchment](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/13.%20Module:_Walking_Distance.md)
 
 [Further Reading](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md) This section includes the literature we used, some online resources and videos.
 
