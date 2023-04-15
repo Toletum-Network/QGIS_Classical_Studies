@@ -34,7 +34,10 @@ I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_S
 ## Courses and Workshops
 This is an overview of the tailored courses and workshops given so far. If you are currently following one of our courses or workshops, you will find the programme attached to it.
 
-* 2020 Hamburg, Germany: TOLETUM Autumn School QGIS for Classics [German](https://www.toletum-network.com/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/) / [Spanish](https://www.toletum-network.com/es/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/)
-* 2021 Nottingham, United Kingdom: [UoN DTH Mapping with QGIS](https://blogs.nottingham.ac.uk/digitaldialogues/2021/04/29/dth-presents-an-intensive-qgis-workshop/)
-* 2022 Zaragoza, Spain: [De la piedra a tu pantalla](https://www.unizar.es/actualidad/vernoticia_ng.php?id=66323)
-* 2022 Hamburg, Germany: [ATLAS project training](https://atlas-cities.com/en/maps-to-go)
+2020 Hamburg, Germany: TOLETUM Autumn School QGIS for Classics [German](https://www.toletum-network.com/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/) / [Spanish](https://www.toletum-network.com/es/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/)
+
+2021 Nottingham, United Kingdom: [UoN DTH Mapping with QGIS](https://blogs.nottingham.ac.uk/digitaldialogues/2021/04/29/dth-presents-an-intensive-qgis-workshop/)
+
+2022 Zaragoza, Spain: [De la piedra a tu pantalla](https://www.unizar.es/actualidad/vernoticia_ng.php?id=66323)
+
+2022 Hamburg, Germany: [ATLAS project training](https://atlas-cities.com/en/maps-to-go)
