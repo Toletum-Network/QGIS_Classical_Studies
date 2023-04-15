@@ -27,7 +27,7 @@ Besides self-study, we offer the possibility to book a **guided course** for gro
 [Further Reading](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md) This section includes the literature we used, some online resources and videos.
 
 ## QGIS Workshops
-I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
+I. [Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
 
 
 
