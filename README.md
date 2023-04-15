@@ -6,8 +6,6 @@ Here we make the course available for everyone as a **self-study** resource. If 
 
 Besides self-study, we offer the possibility to book a **guided course** for groups, which includes personal help via e-mail, online individual and group meetings and a scheduled course framework. Or tailored workshops focussing on the use of GIS analyses. You can find our contact information [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/1.%20Course%20Introduction.md#116-individual-contributors).
 
-If you are  following a guided course the latest programme and outline of the course can be found [here](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Programme.md). 
-
 **The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and the option of booking personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
 
 
@@ -34,6 +32,8 @@ I. [Module: Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_S
 
 
 ## Courses and Workshops
+This is an overview of the tailored courses and workshops given so far. If you are currently following one of our courses or workshops, you will fidn the programme attached to it.
+
 2020 Hamburg, Germany: TOLETUM Autumn School QGIS for Classics [German](https://www.toletum-network.com/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/) / [Spanish](https://www.toletum-network.com/es/aktivitaten/internationale-herbstschule-onlinekurs-qgis-fuer-altertumswissenschaftler-innen/)
 
 2021 Nottingham, United Kingdom: [UoN DTH Mapping with QGIS](https://blogs.nottingham.ac.uk/digitaldialogues/2021/04/29/dth-presents-an-intensive-qgis-workshop/)
