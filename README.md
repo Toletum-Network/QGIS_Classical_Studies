@@ -8,6 +8,9 @@ Besides self-study, we offer the possibility to book a **guided course** for gro
 
 **The aim** of the course is to learn how to use QGIS from basics to first analyses. The course is based on a written Training Manual starting from a blank project. This online manual is supplemented by online presentations, documents and the option of booking personal guidance. The content is based on open source data, focused on Classical Studies of the Iberian Peninsula. 
 
+**``! Note``**<br>
+The course description and included screen shots were orignally made with QGIS 3.16. We try to keep everything up to date with the ever progressing QGIS LTR versions. However, there might be some minor differences between our screenshots and your GIS, depending on your QGIS version or your operating system. The latest update of this course has been done for QGIS LTR 3.28.  
+
 
 ## QGIS Training Manual
 1. [Course Introduction](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/1.%20Course%20Introduction.md)
