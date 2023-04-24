@@ -5,7 +5,7 @@
 This section is created by [Pieter Houten](https://orcid.org/my-orcid?orcid=0000-0002-7872-782X) for the Summer Course [De la piedra a tu pantalla](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/6e620c8c056454c908a899416d2eb0c27e007521/Summer%20course%20De%20la%20piedra%20a%20tu%20pantalla.pdf) in Zaragoza. The section is a basic instruction to map and analyse epigraphic data. As such the page holds basic insctructions treated in more detail in other modules. For the more detailed inscructions follow the links to the main course. If you are new to QGIS it might be best to quickly review [Module 2](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Training_Manual/2.%20Module:_The_Interface.md#2-module-the-interface) to get an idea of the interface.
 
 **``! Note``** <br>
-The [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies) uses 3.16 LTR screenshots. We will be using the QGIS 3.22 LTR ([Download here](https://qgis.org/en/site/forusers/download.html#)) which might have a slightly different User Interface (UI).
+Our [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies) is often updated to conform to the latest QGIS LTR. This workshop has been based on QGIS 3.22 LTR, as a result some screen shots might differ from the most recent LTR.
 
 The the project file in our drive is set to the Portuguese Coordinate Reference System: EPSG: 3763 ERTS89/ Portugal TM06.
 It is advised to download all the data from the Drive and save it on your local drive. Files in the could tend to get corrupted due to network failures.
