@@ -30,7 +30,8 @@ The course description and included screen shots were orignally made with QGIS 3
 [Further Reading](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Bibliography.md) This section includes the literature we used, some online resources and videos.
 
 ## QGIS Workshops
-I. [Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
+I.  [Epigraphic Data](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/I._Epigraphic_Data_in-QGIS.md#13-epigraphic-data-in-qgis)
+II. [Métodos espaciais para os visigodos]()
 
 
 
