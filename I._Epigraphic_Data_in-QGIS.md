@@ -16,10 +16,11 @@ For our epigraphic data we resort to the publications in corpora and journals or
 
 The databases used for the data of our course are:
 
-* [Hispania Epigraphica](http://eda-bea.es/)
-* [Epigraphik-Datenbank Clauss/Slaby](https://db.edcs.eu/epigr/epi.php?s_sprache=en)
-* [Epigraphic Database Heidelberg](https://edh.ub.uni-heidelberg.de/)
-* [Trismegistos](https://www.trismegistos.org/)
+* [Hispania Epigraphica](http://eda-bea.es/) (not downloadable)
+* [Epigraphik-Datenbank Clauss/Slaby](https://db.edcs.eu/epigr/epi.php?s_sprache=en) (copy paste possible, with a [simple hack](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/EDCS%20to%20CSV.md) convertible to csv)
+* [Epigraphic Database Heidelberg](https://edh.ub.uni-heidelberg.de/) (open data)
+* [Trismegistos](https://www.trismegistos.org/) (only open data on the first Sunday of the month, otherwise license needed)
+
 
 Much of the data we will be using has been curated within the ERC-Project [LatinNow](latinnow.eu), which aims at publishing its [LatinNow database](https://latinnow.eu/online-resources-2/databases-and-data/) in September 2022, and the ANR/DFG-project [ATLAS](http://atlas-cities.com/) and its work-in-progress [Huma-Num database](https://geoapps.huma-num.fr/adws/app/5b1c0f10-7386-11ec-b348-11e51a07f6b0/).
 
