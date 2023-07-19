@@ -19,7 +19,5 @@ Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco 
 
 Para obter a ligação para a reunião em linha, contactar Paulo Pachá.
 
-
-
-Reconhecimento
+### Reconhecimento
 O curso foi possível graças à colaboração entre Paulo Pachá durante a sua bolsa de estudo no [RomanIslam Center] e Pieter Houten durante o seu pós-doutoramento no projeto ATLAS, ambos na Universidade de Hamburgo.
