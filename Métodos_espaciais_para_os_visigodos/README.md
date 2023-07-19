@@ -14,9 +14,9 @@ Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco 
 
 | **Dia**         | **Hora**     | Tema |
 |:--------------|:-----------|:------------|
-| 11 de setembro | 9.00 - 12.00 | [Introdução: primeiro mapa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Introdu%C3%A7%C3%A3o_primeiro%20mapa.md) |
-| 18 de setembro | 9.00 - 12.00 | [Dados geoespaciais: recolha e curadoria](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/Dados_geoespaciais_recolha_e_curadoria.md) |
-| 25 de setembro | 9.00 - 12.00 | [Análises de datos: relacional e quantitativa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/An%C3%A1lises_de_datos_relacional_e_quantitativa.md) |
+| 11 de setembro | 9.00 - 12.00 | [Introdução: primeiro mapa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_primeiro%20mapa.md) |
+| 18 de setembro | 9.00 - 12.00 | [Dados geoespaciais: recolha e curadoria](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_recolha_e_curadoria.md) |
+| 25 de setembro | 9.00 - 12.00 | [Análises de datos: relacional e quantitativa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_relacional_e_quantitativa.md) |
 
 Para obter a ligação para a reunião em linha, contactar Paulo Pachá.
 
