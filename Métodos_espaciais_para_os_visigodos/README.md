@@ -4,7 +4,17 @@ Esta secção foi criada por [Pieter Houten](https://github.com/PHAHouten) para 
 
 **``! Note``** <br>
 O nosso [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies)  frequentemente atualizado para estar em conformidade com o QGIS LTR mais recente. Este workshop foi baseado no QGIS 3.28 LTR, pelo que algumas capturas de ecrã podem diferir do LTR mais recente. Antes de começar, descarregue [QGIS 3.28 LTR](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.8-1.msi) (A transferência será iniciada imediatamente).<br>
-Por favor, instale o programa com o inglês como língua, todas as imagens de ecrã são feitas com o QGIS em inglês. Além disso, o instrutor também terá o seu QGIS em inglês. 
+Por favor, instale o programa com o inglês como língua, todas as imagens de ecrã são feitas com o QGIS em inglês. Além disso, o instrutor também terá o seu QGIS em inglês.
+
+Most likely your installation immediately is installed using the language of the computer, you can chnage it later:
+
+Configurações > Opções > Geral
+
+Tick box Subsitituir Stistema Local
+
+Selecet American Englis for Tradução da interface do usuário
+
+You will have to restart QGIS 
 
 O ficheiro do projeto no nosso disco está definido para o Sistema Euroeu de Referência de Coordenadas: EPSG: 25830 ERTS89/ UTM zone 30N.
 Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco local. Os ficheiros na nuvem tendem a ficar corrompidos devido a falhas de rede.
@@ -18,7 +28,7 @@ Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco 
 | 18 de setembro | 9.00 - 12.00 | [Dados geoespaciais: recolha e curadoria](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_recolha_e_curadoria.md) |
 | 25 de setembro | 9.00 - 12.00 | [Análises de datos: relacional e quantitativa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_relacional_e_quantitativa.md) |
 
-Para obter a ligação para a reunião em linha, contactar Paulo Pachá.
+Para obter a ligação a Google Meet para a reunião em linha, contactar Paulo Pachá.
 
 ### Reconhecimento
 O curso foi possível graças à colaboração entre Paulo Pachá durante a sua bolsa de estudo no [RomanIslam Center] e Pieter Houten durante o seu pós-doutoramento no projeto ATLAS, ambos na Universidade de Hamburgo.
