@@ -1,9 +1,25 @@
 # Métodos espaciais para os visigodos
 
-This section is created by [Pieter Houten](https://orcid.org/my-orcid?orcid=0000-0002-7872-782X) for the course  in Rio de Janeiro. The section is a basic instruction to map and analyse data using spatial approaches. As such the page holds basic insctructions treated in more detail in other modules. For the more detailed inscructions follow the links to the main course. 
+Esta secção foi criada por [Pieter Houten](https://github.com/PHAHouten) para o workshop organizado pela XXX no Rio de Janeiro. A secção é uma instrução básica para mapear e analisar dados utilizando abordagens espaciais. Como tal, a página contém instruções básicas tratadas com mais pormenor noutros módulos. Para obter instruções mais pormenorizadas, siga as ligações para o curso principal.
 
 **``! Note``** <br>
-Our [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies) is often updated to conform to the latest QGIS LTR. This workshop has been based on QGIS 3.22 LTR, as a result some screen shots might differ from the most recent LTR.
+O nosso [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies)  frequentemente atualizado para estar em conformidade com o QGIS LTR mais recente. Este workshop foi baseado no QGIS 3.28 LTR, pelo que algumas capturas de ecrã podem diferir do LTR mais recente. Antes de começar, descarregue [QGIS 3.28 LTR](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.8-1.msi)(A transferência será iniciada imediatamente).
 
-The the project file in our drive is set to the Portuguese Coordinate Reference System: EPSG: 3763 ERTS89/ Portugal TM06.
-It is advised to download all the data from the Drive and save it on your local drive. Files in the could tend to get corrupted due to network failures.
+O ficheiro do projeto no nosso disco está definido para o Sistema Euroeu de Referência de Coordenadas: EPSG: 25830 ERTS89/ UTM zone 30N.
+Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco local. Os ficheiros na nuvem tendem a ficar corrompidos devido a falhas de rede.
+
+
+### Programa do seminário
+
+| **Dia**         | **Hora**     | Tema |
+|:--------------|:-----------|:------------|
+| 11 de setembro | 9.00 - 12.00 | [Introdução: primeiro mapa]() |
+| 18 de setembro | 9.00 - 12.00 | [Dados geoespaciais: recolha e curadoria]() |
+| 25 de setembro | 9.00 - 12.00 | [Análises de datos: relacional e quantitativa]() |
+
+Para obter a ligação para a reunião em linha, contactar Paulo Pachá.
+
+
+
+Reconhecimento
+O curso foi possível graças à colaboração entre Paulo Pachá durante a sua bolsa de estudo no [RomanIslam Center] e Pieter Houten durante o seu pós-doutoramento no projeto ATLAS, ambos na Universidade de Hamburgo.
