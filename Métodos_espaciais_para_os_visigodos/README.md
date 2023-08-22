@@ -1,24 +1,17 @@
 # Métodos espaciais para os visigodos
 
-Esta secção foi criada por [Pieter Houten](https://github.com/PHAHouten) para o workshop organizado pela XXX no Rio de Janeiro. A secção é uma instrução básica para mapear e analisar dados utilizando abordagens espaciais. Como tal, a página contém instruções básicas tratadas com mais pormenor noutros módulos. Para obter instruções mais pormenorizadas, siga as ligações para o curso principal.
+Esta secção foi criada por [Pieter Houten](https://github.com/PHAHouten) para o workshop organizado pela Programa de Estudos Medievais no Universidade Federal do Rio de Janeiro. A secção é uma instrução básica para mapear e analisar dados utilizando abordagens espaciais. Como tal, a página contém instruções básicas tratadas com mais pormenor noutros módulos. Para obter instruções mais pormenorizadas, siga as ligações para o curso principal.
 
 **``! Note``** <br>
 O nosso [QGIS Online Course for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies#qgis-online-course-for-classical-studies)  frequentemente atualizado para estar em conformidade com o QGIS LTR mais recente. Este workshop foi baseado no QGIS 3.28 LTR, pelo que algumas capturas de ecrã podem diferir do LTR mais recente. Antes de começar, descarregue [QGIS 3.28 LTR](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.8-1.msi) (A transferência será iniciada imediatamente).<br>
 Por favor, instale o programa com o inglês como língua, todas as imagens de ecrã são feitas com o QGIS em inglês. Além disso, o instrutor também terá o seu QGIS em inglês.
 
-Most likely your installation immediately is installed using the language of the computer, you can chnage it later:
-
-Configurações > Opções > Geral
-
-Tick box Subsitituir Stistema Local
-
-Selecet American Englis for Tradução da interface do usuário
-
-You will have to restart QGIS 
+Provavelmente, a instalação é feita no idioma de seu sistema. Você pode alterar esse idioma para inglês após a instalação via:
+`Configurações > Opções > Geral`
+Marque a caixa `Subsitituir Sistema Local` e selecione 'American English' para `Tradução da interface do usuário`. Depois disso, você terá que reiniciar o QGIS.
 
 O ficheiro do projeto no nosso disco está definido para o Sistema Euroeu de Referência de Coordenadas: EPSG: 25830 ERTS89/ UTM zone 30N.
-Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco local. Os ficheiros na nuvem tendem a ficar corrompidos devido a falhas de rede.
-
+Aconselha-se a descarregar todos os dados da Google Drive e a guardá-los no seu disco local. Os ficheiros na nuvem tendem a ficar corrompidos devido a falhas de rede.
 
 ### Programa do seminário
 
@@ -31,5 +24,5 @@ Aconselha-se a descarregar todos os dados da Drive e a guardá-los no seu disco 
 Para obter a ligação a Google Meet para a reunião em linha, contactar Paulo Pachá.
 
 ### Reconhecimento
-O curso foi possível graças à colaboração entre Paulo Pachá durante a sua bolsa de estudo no [RomanIslam Center] e Pieter Houten durante o seu pós-doutoramento no projeto ATLAS, ambos na Universidade de Hamburgo.
+O curso foi possível graças à colaboração entre Paulo Pachá durante a sua bolsa de estudo no [RomanIslam Center](https://www.romanislam.uni-hamburg.de/) e Pieter Houten durante o seu pós-doutoramento no projeto [ATLAS](http://atlas-cities.com/), ambos na Universidade de Hamburgo.
 
