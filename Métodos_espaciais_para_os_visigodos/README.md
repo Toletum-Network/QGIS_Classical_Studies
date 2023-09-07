@@ -17,9 +17,9 @@ Aconselha-se a descarregar todos os arquivos do [repositorio](https://github.com
 
 | **Dia**         | **Hora**     | Tema |
 |:--------------|:-----------|:------------|
-| 11 de setembro | 9.00 - 12.00 | Introdução: primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/0f6c840e98ac0e8951f97cad4ae0d849aef5fa64/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/0f6c840e98ac0e8951f97cad4ae0d849aef5fa64/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
-| 18 de setembro | 9.00 - 12.00 | [Dados geoespaciais: recolha e curadoria](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_recolha_e_curadoria.md) |
-| 25 de setembro | 9.00 - 12.00 | [Análises de datos: relacional e quantitativa](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_relacional_e_quantitativa.md) |
+| 11 de setembro | 9.00 - 12.00 | Introdução: primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/0f6c840e98ac0e8951f97cad4ae0d849aef5fa64/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/0f6c840e98ac0e8951f97cad4ae0d849aef5fa64/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
+| 18 de setembro | 9.00 - 12.00 | Dados geoespaciais: recolha e curadoria [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/a85017da7d79bcc44b2e9f89a3c610999e2e2dbf/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/a85017da7d79bcc44b2e9f89a3c610999e2e2dbf/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_EN.md) |
+| 25 de setembro | 9.00 - 12.00 | Análises de datos: relacional e quantitativa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/a85017da7d79bcc44b2e9f89a3c610999e2e2dbf/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/a85017da7d79bcc44b2e9f89a3c610999e2e2dbf/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_EN.md)  |
 
 Para obter a ligação a Google Meet para a reunião em linha, contactar Paulo Pachá.
 
