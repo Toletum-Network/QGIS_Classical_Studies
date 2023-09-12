@@ -42,3 +42,4 @@ This is an overview of the tailored courses and workshops given so far. If you a
 2021 Nottingham, United Kingdom: [UoN DTH Mapping with QGIS](https://blogs.nottingham.ac.uk/digitaldialogues/2021/04/29/dth-presents-an-intensive-qgis-workshop/)<br>
 2022 Zaragoza, Spain: [De la piedra a tu pantalla](https://www.unizar.es/actualidad/vernoticia_ng.php?id=66323)<br>
 2022 Hamburg, Germany: [ATLAS project training](https://atlas-cities.com/en/maps-to-go)
+2023 Rio de Janeiro, Brasil: Métodos espaciais para os visigodos
