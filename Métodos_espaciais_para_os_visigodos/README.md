@@ -10,16 +10,16 @@ Provavelmente, a instalação será feita no idioma de seu sistema. Você pode a
 `Configurações > Opções > Geral`
 Marque a caixa `Subsitituir Sistema Local` e selecione 'American English' para `Tradução da interface do usuário`. Depois disso, você terá que reiniciar o QGIS.
 
-O ficheiro do projeto no nosso HD está definido para o Sistema Euroeu de Referência de Coordenadas: EPSG: 25830 ERTS89/ UTM zone 30N.
+O ficheiro do projeto no nosso HD está definido para o Sistema Europeu de Referência de Coordenadas: EPSG: 25830 ERTS89/ UTM zone 30N.
 Aconselha-se a descarregar todos os arquivos do [repositorio](https://github.com/Toletum-Network/QGIS_Classical_Studies/tree/94ddc5d45071eec5c3c63dafd8a7908edc798ed2/M%C3%A9todos_espaciais_para_os_visigodos/Data) e a guardá-los no seu disco local. Os arquivos na nuvem tendem a ficar corrompidos devido a falhas de rede.
 
 ### Programa da Oficina
 
 | **Dia**         | **Hora**     | Tema |
 |:--------------|:-----------|:------------|
-| 02 de outubro | 9.00 - 12.00 | Introdução: primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
-| 09 de outubro | 9.00 - 12.00 | Dados geoespaciais: recolha e curadoria [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_EN.md#dados-geoespaciais-recolha-e-curadoria) |
-| 16 de outubro | 9.00 - 12.00 | Análises de datos: relacional e quantitativa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_EN.md)  |
+| 02 de outubro | 15.00 - 18.00 | Introdução: primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
+| 09 de outubro | 15.00 - 18.00 | Dados geoespaciais: recolha e curadoria [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_EN.md#dados-geoespaciais-recolha-e-curadoria) |
+| 16 de outubro | 15.00 - 18.00 | Análises de datos: relacional e quantitativa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_EN.md)  |
 
 Para obter a ligação a Google Meet para a reunião em linha, contactar Paulo Pachá.
 
