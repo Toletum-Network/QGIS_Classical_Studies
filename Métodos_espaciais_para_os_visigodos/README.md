@@ -17,9 +17,9 @@ Aconselha-se a descarregar todos os arquivos do [repositorio](https://github.com
 
 | **Dia**         | **Hora**     | Tema |
 |:--------------|:-----------|:------------|
-| 02 de outubro | 15.00 - 18.00 | Introdução: primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
-| 09 de outubro | 15.00 - 18.00 | Dados geoespaciais: recolha e curadoria [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_EN.md#dados-geoespaciais-recolha-e-curadoria) |
-| 16 de outubro | 15.00 - 18.00 | Análises de datos: relacional e quantitativa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_EN.md)  |
+| 02 de outubro | 15.00 - 18.00 | Introdução: SIG & QGIS [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/1.%20Introdu%C3%A7%C3%A3o_EN.md) |
+| 09 de outubro | 15.00 - 18.00 | Primeiro mapa [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/2.%20Dados_geoespaciais_EN.md#dados-geoespaciais-recolha-e-curadoria) |
+| 16 de outubro | 15.00 - 18.00 | Dados geoespaciais: recolha e curadoria [PT](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_PT.md) or [EN](https://github.com/Toletum-Network/QGIS_Classical_Studies/blob/master/M%C3%A9todos_espaciais_para_os_visigodos/3.%20An%C3%A1lises_de_datos_EN.md)  |
 
 Para obter a ligação a Google Meet para a reunião em linha, contactar Paulo Pachá.
 
